@@ -11,4 +11,4 @@ We use the test token for SABRE APIs, which is free but expires after 7 days. To
 
 Here is our deployed link: https://ssvtravel.herokuapp.com/
 
-Here is a video clip: https://drive.google.com/file/d/1Zg88n38UPr9dDh-R0jZaPKK05mpzTFFr/view
+To see how it works: https://drive.google.com/file/d/1Zg88n38UPr9dDh-R0jZaPKK05mpzTFFr/view
